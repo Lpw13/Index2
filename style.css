@@ -1,0 +1,32 @@
+
+
+body{
+    background-color: rgb(72, 75, 77); /*mudando cor do body */
+
+
+}
+.subtittle, .hability, .contact { /*mudando cor das fontes exceto do título principal */
+    color:burlywood;
+}
+
+#tittle {      /*mudando cor do titulo principal */
+    font-size:30px;
+    font-style: italic;
+    color:antiquewhite;
+
+}
+
+.sobre{
+    background-color: rgb(65, 62, 62); 
+    padding: 10px;
+    border: 10px solid #000;
+    margin: 10px;
+}
+.read{
+    background-color: rgb(72, 75, 77);
+}
+
+.para{
+    color:aliceblue; 
+}
+
